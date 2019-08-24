@@ -1,0 +1,14 @@
+str name dungeon!
+float spawnX 4
+float spawnY 54
+float goal 142
+int successorW 2
+int successorL 4
+int checkpoints 1
+float checkpointX0 83
+float checkpointY0 21
+int tile 0
+color bg 0,98,168
+bool has_foreground false
+bool has_background true
+sound bgm music/dungeon.wav

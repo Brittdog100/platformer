@@ -1,0 +1,4 @@
+int time 375
+int frames 2
+tex frame0 sprite/playerTest/run/run1.png
+tex frame1 sprite/playerTest/run/run2.png

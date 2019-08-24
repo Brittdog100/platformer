@@ -1,0 +1,9 @@
+int ground 3
+int wall 1
+int shatter 0
+int hidden 0
+int hazard 0
+int door 0
+int backwall 4
+int deco 1
+int decoback 1

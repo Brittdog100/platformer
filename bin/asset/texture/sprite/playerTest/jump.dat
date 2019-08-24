@@ -1,0 +1,7 @@
+int frames 3
+int time 125
+bool is_succeeded true
+int successor 2
+tex frame0 sprite/playerTest/jump/jump1.png
+tex frame1 sprite/playerTest/jump/jump2.png
+tex frame2 sprite/playerTest/jump/jump3.png

@@ -1,0 +1,9 @@
+str name first_steps
+float spawnX 2
+float spawnY 4
+float goal 39
+int successorW 1
+int successorL 2
+int checkpoints 0
+int tile 0
+color bg 12,124,234

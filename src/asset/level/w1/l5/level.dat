@@ -1,0 +1,10 @@
+str name wall_jumping
+float spawnX 4
+float spawnY 4
+float goal 21
+int successorW 1
+int successorL 6
+int checkpoints 0
+int tile 0
+color bg 12,124,234
+sound bgm music/plains_melodiless.wav

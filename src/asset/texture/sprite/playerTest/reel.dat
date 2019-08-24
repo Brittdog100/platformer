@@ -1,0 +1,8 @@
+int frames 6
+int time 15
+tex frame0 sprite/playerTest/reel/reel1.png
+tex frame1 sprite/playerTest/reel/reel2.png
+tex frame2 sprite/playerTest/reel/reel3.png
+tex frame3 sprite/playerTest/reel/reel4.png
+tex frame4 sprite/playerTest/reel/reel5.png
+tex frame5 sprite/playerTest/reel/reel6.png

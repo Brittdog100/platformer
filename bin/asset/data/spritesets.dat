@@ -1,0 +1,3 @@
+bool preloadable true
+str registry sprite
+str player texture/sprite/playerTest/sprite.dat

@@ -1,0 +1,3 @@
+int preload 2
+dat preload0 data/textures.dat
+dat preload1 data/spritesets.dat
