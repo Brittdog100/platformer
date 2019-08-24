@@ -1,0 +1,7 @@
+int frames 5
+int time 63
+tex frame0 sprite/playerTest/sprint/sprint1.png
+tex frame1 sprite/playerTest/sprint/sprint2.png
+tex frame2 sprite/playerTest/sprint/sprint3.png
+tex frame3 sprite/playerTest/sprint/sprint4.png
+tex frame4 sprite/playerTest/sprint/sprint5.png

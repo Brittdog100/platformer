@@ -1,0 +1,4 @@
+int frames 2
+long time 750
+file frame0 texture/sprite/player/idle1.png
+file frame1 texture/sprite/player/idle2.png

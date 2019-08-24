@@ -1,0 +1,10 @@
+str name jumping
+float spawnX 2
+float spawnY 4
+float goal 39
+int successorW 1
+int successorL 3
+int checkpoints 0
+int tile 0
+color bg 12,124,234
+sound bgm music/plains_beat.wav

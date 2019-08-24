@@ -1,0 +1,14 @@
+str name temple
+float spawnX 3
+float spawnY 4
+float goal 92
+int successorW 2
+int successorL 3
+int checkpoints 1
+float checkpointX0 68
+float checkpointY0 8
+int tile 0
+color bg 0,98,168
+bool has_foreground true
+bool has_background true
+sound bgm music/temple.wav
