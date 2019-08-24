@@ -1,4 +1,0 @@
-int frames 2
-int time 750
-tex frame0 sprite/playerTest/idle/idle1.png
-tex frame1 sprite/playerTest/idle/idle2.png

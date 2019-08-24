@@ -1,6 +1,0 @@
-int frames 4
-int time 125
-tex frame0 sprite/playerTest/fall/fall1.png
-tex frame1 sprite/playerTest/fall/fall2.png
-tex frame2 sprite/playerTest/fall/fall3.png
-tex frame3 sprite/playerTest/fall/fall4.png

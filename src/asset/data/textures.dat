@@ -1,5 +1,0 @@
-bool preloadable true
-str registry texture
-str health_i ui/health_on.png
-str health_o ui/health_off.png
-str islot ui/islot.png

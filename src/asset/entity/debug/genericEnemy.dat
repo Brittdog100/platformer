@@ -1,7 +1,0 @@
-str name Generic_Enemy
-int accels 2
-int mvels 2
-float accel0 0.75
-float accel1 1.25
-float mvel0 10
-float mvel1 12.5

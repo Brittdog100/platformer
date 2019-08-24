@@ -1,6 +1,0 @@
-int frames 4
-long time 500
-file frame0 texture/sprite/player/run1.png
-file frame1 texture/sprite/player/run2.png
-file frame2 texture/sprite/player/run3.png
-file frame3 texture/sprite/player/run4.png
