@@ -10,4 +10,3 @@ mixture of Java's AWT and Swing toolkits, both of which are now obsolete. It was
 lasted, I suppose. Additionally, the controls are a bit off right now since I was still working on
 the project after I turned it in, and I was trying to integrate either DirectInput or XInput,
 but using DLLs with Java is not very fun and makes me sad on the inside.</p>
-<p>I probably could've done a better job putting it on GitHub, but that's neither here nor there.</p>
